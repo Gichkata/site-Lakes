@@ -1,0 +1,29 @@
+﻿.otgore{
+    display: flex;
+    justify-content:center;
+    margin: 10px;
+}
+.belmeken{
+    display: flex;
+    justify-content: center;
+    loading="lazy" width="43" height="43"/>
+}
+ul{
+    width: auto;
+    display:flex;
+    justify-content:center;
+    margin-top: 9px;
+}
+li{
+    margin: 5px;
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align:center;
+    color:#000000;
+    text-decoration:blink;
+}
+body {
+    background: linear-gradient(#6699ff,#ccffff);
+}
